@@ -14,14 +14,14 @@
 naila = {
     "role": "Junior Python Developer",
     "education": "Computer Engineering Student",
-    "code": ["Python", "C++", "SQL"],
+    "code": ["Python", "C++", "JavaScript"],
     "technologies": {
-        "backend": ["Django", "Flask", "FastAPI"],
-        "database": ["PostgreSQL", "MySQL", "SQLite"],
-        "tools": ["Git", "VS Code", "PyCharm"],
-        "testing": ["pytest", "unittest"]
+        "frontend": ["React"],
+        "database": ["MongoDB"],
+        "tools": ["Git", "VS Code", "Visual Studio 2022", "Anaconda"],
+        "environments": ["Node.js"]
     },
-    "current_focus": "Building Robust Python Applications"
+    "current_focus": "Building Robust Applications"
 }
 ```
 
@@ -31,11 +31,10 @@ naila = {
 
 | Category | Technologies |
 |----------|-------------|
-| Primary | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| Secondary | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Backend | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| Database | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| Database | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| Tools | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) |
 
 </div>
 
